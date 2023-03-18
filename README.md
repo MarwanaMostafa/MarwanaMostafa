@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marwan Mostafa</h1>
 
-<h1 align="center"> <img src="https://komarev.com/ghpvc/?username=marwanmostafa&label=Profile%20views&color=0e75b6&style=flat" alt="marwanmostafa" /> </h1>
+<h1 align="center" height="40"> <img src="https://komarev.com/ghpvc/?username=marwanmostafa&label=Profile%20views&color=0e75b6&style=flat" alt="marwanmostafa" /> </h1>
 
 - 📫 How to reach me **Marwanmostafa2001@hotmail.com**
 
