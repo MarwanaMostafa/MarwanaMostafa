@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marwan Mostafa</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marwanmostafa&label=Profile%20views&color=0e75b6&style=flat" alt="marwanmostafa" /> </p>
+<h1 align="center"> <img src="https://komarev.com/ghpvc/?username=marwanmostafa&label=Profile%20views&color=0e75b6&style=flat" alt="marwanmostafa" /> </h1>
 
 - 📫 How to reach me **Marwanmostafa2001@hotmail.com**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marwanmostafa&label=Profile%20views&color=0e75b6&style=flat" alt="marwanmostafa" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marwanmostafa&label=Profile%20views&color=0e75b6&style=flat" alt="marwanmostafa" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
