@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Marwan Mostafa</h1>
 
-<h1 align="center" height="40"> <img src="https://komarev.com/ghpvc/?username=marwanmostafa&label=Profile%20views&color=0e75b6&style=flat" alt="marwanmostafa" /> </h1>
+<h1 align="center" > <img src="https://komarev.com/ghpvc/?username=marwanmostafa&label=Profile%20views&color=0e75b6&style=flat" alt="marwanmostafa" /> </h1>
 
 - 📫 How to reach me **Marwanmostafa2001@hotmail.com**
+- 🧠 Interested in Problem Solving ,and Problem Solver in <a href="https://leetcode.com/Marwan_Mostafa/" target="blank">LeetCode</a>
 
+- 🔭 I’m currently working on Banque Misr
+- 🌱 I’m currently Studing Computer Science and Artificial intelligence 
+- 🤔 I’m looking for help with ...
+- 😄 Pronouns: ...
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/marwan-mostafa-4651a61b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/marwan-mostafa-4651a61b3" height="30" width="40" /></a>
