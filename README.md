@@ -155,28 +155,23 @@
 
 ---
 
-<div style="display: flex; flex-direction: row;">
-  <div style="flex: 1; padding: 10px;">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Commit" alt="marwanamostafa" width="400" height="150" />
-    </a>
-  </div>
 
-  <div style="flex: 1; padding: 10px;">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Repositories" alt="marwanamostafa" width="400" height="150" />
-    </a>
-  </div>
-
-  <div style="flex: 1; padding: 10px;">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Followers" alt="marwanamostafa" width="400" height="150" />
-    </a>
-  </div>
-
-  <div style="flex: 1; padding: 10px;">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Stars" alt="marwanamostafa" width="1200" height="150" />
-    </a>
-  </div>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Commit" alt="marwanamostafa" style="width: 25%;" />
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Repositories" alt="marwanamostafa" style="width: 25%;" />
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Followers" alt="marwanamostafa" style="width: 25%;" />
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Stars" alt="marwanamostafa" style="width: 25%;" />
+  </a>
 </div>
+
+
+
+
+
