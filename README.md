@@ -2,12 +2,11 @@
 ---
 <h1 align="center">Hi 👋, I'm Marwan Mostafa</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
-<h1 align="center" > <img src="https://komarev.com/ghpvc/?username=marwanmostafa&label=Profile%20views&color=0e75b6&style=flat" alt="marwanmostafa" /> </h1>
+<h3 align="center" > <img src="https://komarev.com/ghpvc/?username=marwanmostafa&label=Profile%20views&color=0e75b6&style=flat" alt="marwanmostafa" /> </h3>
 
 ---
 
 # About Me :
-
 **I am a software engineer with over 2 years of experience in software development. I
 am a skilled software engineer with a strong foundation in software engineering
 principles. I strive to develop myself in problem-solving, algorithms continuously,
