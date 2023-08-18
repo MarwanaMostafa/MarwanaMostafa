@@ -155,23 +155,30 @@
 
 ---
 
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Commit" alt="marwanamostafa" style="width: 25%;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Commit" alt="marwanamostafa" />
   </a>
+</p>
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Repositories" alt="marwanamostafa" style="width: 25%;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Repositories" alt="marwanamostafa" />
   </a>
+</p>
+
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Followers" alt="marwanamostafa" style="width: 25%;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Followers" alt="marwanamostafa" />
   </a>
+</p>
+<p align="left"> 
+</p>
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Stars" alt="marwanamostafa" style="width: 25%;" />
+     <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Stars" alt="marwanamostafa" />
   </a>
-</div>
-
-
-
+</p>
+<p align="left"> 
+</p>
 
 
