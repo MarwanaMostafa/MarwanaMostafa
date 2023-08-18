@@ -1,11 +1,13 @@
-<h1 align="center" > <img src="https://komarev.com/ghpvc/?username=marwanmostafa&label=Profile%20views&color=0e75b6&style=flat" alt="marwanmostafa" /> </h1>
 
 ---
 <h1 align="center">Hi 👋, I'm Marwan Mostafa</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
+<h1 align="center" > <img src="https://komarev.com/ghpvc/?username=marwanmostafa&label=Profile%20views&color=0e75b6&style=flat" alt="marwanmostafa" /> </h1>
 
 ---
+
 # About Me :
+
 **I am a software engineer with over 2 years of experience in software development. I
 am a skilled software engineer with a strong foundation in software engineering
 principles. I strive to develop myself in problem-solving, algorithms continuously,
@@ -22,7 +24,8 @@ principles**
 - 🔭 I’m currently working on Banque Misr
 
 ---
-<h1 align="left">Connect with me:</h1>
+
+# Connect with me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/marwan-mostafa-4651a61b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/marwan-mostafa-4651a61b3" height="30" width="40" /></a>
@@ -152,15 +155,13 @@ principles**
   </a>
 
 </p>
----
 
 ---
+
 # 📊GitHub Stats :
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marwanamostafa&show_icons=true&locale=en" alt="marwanamostafa" /></p>
 
-<div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marwanamostafa&show_icons=true&locale=en" alt="marwanamostafa" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marwanamostafa&" alt="marwanamostafa" /></p>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marwanamostafa&" alt="marwanamostafa" /></p>
 
 
 
@@ -185,6 +186,12 @@ principles**
 </p>
 
 
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer">
+    <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Stars" alt="marwanamostafa"  width="1000" height="100"/>
+  </a>
+
+</p>
 
 
 
