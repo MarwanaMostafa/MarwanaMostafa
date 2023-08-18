@@ -155,28 +155,28 @@
 
 ---
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Commit" alt="marwanamostafa" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Repositories" alt="marwanamostafa" />
-  </a>
-</p>
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 1; padding: 10px;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Commit" alt="marwanamostafa" width="400" height="150" />
+    </a>
+  </div>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Followers" alt="marwanamostafa" />
-  </a>
-</p>
-<p align="left"> 
-</p>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-     <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Stars" alt="marwanamostafa" />
-  </a>
-</p>
-<p align="left"> 
-</p>
+  <div style="flex: 1; padding: 10px;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Repositories" alt="marwanamostafa" width="400" height="150" />
+    </a>
+  </div>
+
+  <div style="flex: 1; padding: 10px;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Followers" alt="marwanamostafa" width="400" height="150" />
+    </a>
+  </div>
+
+  <div style="flex: 1; padding: 10px;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Stars" alt="marwanamostafa" width="1200" height="150" />
+    </a>
+  </div>
+</div>
