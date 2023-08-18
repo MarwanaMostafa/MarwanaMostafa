@@ -4,21 +4,15 @@
 
 ---
 
-## About Me :
+<h2>About Me:</h2>
+<p>I am a software engineer with over 2 years of experience in software development. I am a skilled software engineer with a strong foundation in software engineering principles. I strive to develop myself in problem-solving, algorithms continuously, SOLID principles, software design patterns, software architecture, and other related principles</p>
+<p>I am a proactive focused on achieving outcomes, capable of acclimating to swiftly evolving contexts and effectively addressing crucial challenges to guarantee ultimate success. Furthermore, I possess a continuous thirst for knowledge and personal growth, coupled with a natural aptitude for swiftly grasping and mastering emerging technologies.</p>
+<p>🎓 Computer Science and Artificial Intelligence Graduate | 🌍 Cairo University</p>
+<p>📫 How to reach me Marwanmostafa2001@hotmail.com</p>
+<p>🧠 Interested in Problem Solving , Problem Solver in LeetCode</p>
+<p>👀 I’m interested in Programing and Software engineering</p>
+<p>🔭 I’m currently working on Banque Misr</p>
 
-**I am a software engineer with over 2 years of experience in software development. I
-am a skilled software engineer with a strong foundation in software engineering
-principles. I strive to develop myself in problem-solving, algorithms continuously,
-SOLID principles, software design patterns, software architecture, and other related
-principles**
-
-**I am a proactive focused on achieving outcomes, capable of acclimating to swiftly evolving contexts and effectively addressing crucial challenges to guarantee ultimate success. Furthermore, I possess a continuous thirst for knowledge and personal growth, coupled with a natural aptitude for swiftly grasping and mastering emerging technologies.**
-
-- 🎓 Computer Science and Artificial Intelligence Graduate | 🌍 Cairo University
-- 📫 How to reach me **Marwanmostafa2001@hotmail.com**
-- 🧠 Interested in Problem Solving , Problem Solver in <a href="https://leetcode.com/Marwan_Mostafa/" target="blank">LeetCode</a>
-- 👀 I’m interested in Programing and Software engineering
-- 🔭 I’m currently working on Banque Misr
 
 ---
 
