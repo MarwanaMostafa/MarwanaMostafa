@@ -3,8 +3,7 @@
 <h3 align="center" > <img src="https://komarev.com/ghpvc/?username=marwanmostafa&label=Profile%20views&color=0e75b6&style=flat" alt="marwanmostafa" /> </h3>
 
 ---
-
-<p style="font-size: 2em;">About Me:</p>
+### About Me:
 <p>I am a software engineer with over 2 years of experience in software development. I am a skilled software engineer with a strong foundation in software engineering principles. I strive to develop myself in problem-solving, algorithms continuously, SOLID principles, software design patterns, software architecture, and other related principles</p>
 <p>I am a proactive focused on achieving outcomes, capable of acclimating to swiftly evolving contexts and effectively addressing crucial challenges to guarantee ultimate success. Furthermore, I possess a continuous thirst for knowledge and personal growth, coupled with a natural aptitude for swiftly grasping and mastering emerging technologies.</p>
 <p>🎓 Computer Science and Artificial Intelligence Graduate | 🌍 Cairo University</p>
@@ -16,7 +15,7 @@
 
 ---
 
-# Connect with me:
+### Connect with me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/marwan-mostafa-4651a61b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/marwan-mostafa-4651a61b3" height="30" width="40" /></a>
@@ -149,12 +148,12 @@
 
 ---
 
-# 📊GitHub Stats :
+### 📊GitHub Stats :
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marwanamostafa&show_icons=true&locale=en" alt="marwanamostafa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marwanamostafa&" alt="marwanamostafa" /></p>
 
-
+---
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -166,22 +165,18 @@
     <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Repositories" alt="marwanamostafa" />
   </a>
 </p>
-
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Followers" alt="marwanamostafa" />
   </a>
 </p>
-<p align="left">
- 
+<p align="left"> 
 </p>
 
-
-<p align="center">
+<p align="left">
  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer">
     <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Stars" alt="marwanamostafa"  width="1000" height="100"/>
   </a>
-
 </p>
 
 
