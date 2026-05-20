@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-Backend engineer with **2+ years** building production-grade microservices at **Banque Misr**, serving **4+ million users** across Egypt's leading digital banking platform.
+Backend engineer with **3+ years** building production-grade microservices at **Banque Misr**, serving **4+ million users** across Egypt's leading digital banking platform.
 
 - 🏦 Currently at **Banque Misr – Digital Factory** working on mobile banking (KYC, cards, authentication, payments)
 - 🎓 **Cairo University** — Computer Science, GPA 3.3/4.0
