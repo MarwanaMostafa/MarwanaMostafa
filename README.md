@@ -1,184 +1,132 @@
-<h1 align="center">Hi 👋, I'm Marwan Mostafa </h1>
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
-<h3 align="center" > <img src="https://komarev.com/ghpvc/?username=marwanmostafa&label=Profile%20views&color=0e75b6&style=flat" alt="marwanmostafa" /> </h3>
+<h1 align="center">Hi, I'm Marwan Mostafa 👋</h1>
 
----
-### About Me:
-<p>I am a software engineer with over 2 years of experience in software development. I am a skilled software engineer with a strong foundation in software engineering principles. I strive to develop myself in problem-solving, algorithms continuously, SOLID principles, software design patterns, software architecture, and other related principles</p>
-<p>I am a proactive focused on achieving outcomes, capable of acclimating to swiftly evolving contexts and effectively addressing crucial challenges to guarantee ultimate success. Furthermore, I possess a continuous thirst for knowledge and personal growth, coupled with a natural aptitude for swiftly grasping and mastering emerging technologies.</p>
-<p>🎓 Computer Science and Artificial Intelligence Graduate | 🌍 Cairo University</p>
-<p>📫 How to reach me Marwanmostafa2001@hotmail.com</p>
-<p>🧠 Interested in Problem Solving , Problem Solver in LeetCode</p>
-<p>👀 I’m interested in Programing and Software engineering</p>
-<p>🔭 I’m currently working on Banque Misr</p>
-
-
----
-
-### Connect with me:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/marwan-mostafa-4651a61b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/marwan-mostafa-4651a61b3" height="30" width="40" /></a>
-  <a href="https://leetcode.com/Marwan_Mostafa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/marwan_mostafa/" height="30" width="40" /></a>
-  <a href="https://twitter.com/_maroxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_maroxx" height="30" width="40" /></a>
-  <a href="mailto:marwanmostafa2001@hotmail.com"><img align="center" src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook" /></a>
-</p>
-
----
-### Programming Languages :
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
- <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
-</p>
-
-### Database :
-<p align="center">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-</p>
-
-
-
-### DevOps Tools :
-<p align="center">
-<a href="https://www.vectorlogo.zone/logos/docker/docker-official.svg" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/>
-  </a>
-
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-</p>
-
-### Version Control System :
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
-  </a>
-</p>
-
-### Various :
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
+  <b>Mid-Level Backend Engineer · Fintech · Microservices · Cairo, Egypt</b>
 </p>
 
 <p align="center">
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-</p>
-
-<p align="center">
- <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
-
-</p>    
-<p align="center">
-  <a href="https://www.postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
-  </a>
-
+  <img src="https://komarev.com/ghpvc/?username=marwanamostafa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/marwan-mostafa-4651a61b3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/Marwan_Mostafa/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
+  <a href="mailto:MarwanMostafa2001@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" /></a>
 </p>
 
 ---
 
-### 📊GitHub Stats :
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marwanamostafa&show_icons=true&locale=en" alt="marwanamostafa" /></p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marwanamostafa&" alt="marwanamostafa" /></p>
+Backend engineer with **2+ years** building production-grade microservices at **Banque Misr**, serving **4+ million users** across Egypt's leading digital banking platform.
+
+- 🏦 Currently at **Banque Misr – Digital Factory** working on mobile banking (KYC, cards, authentication, payments)
+- 🎓 **Cairo University** — Computer Science, GPA 3.3/4.0
+- 🎯 Passionate about clean architecture, system design, and high-availability backend systems
+- 🌍 Open to remote opportunities in Gulf & international markets
 
 ---
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Commit" alt="marwanamostafa" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Repositories" alt="marwanamostafa" />
-  </a>
+## 🔧 Tech Stack
+
+### Backend
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+
+### Messaging & Caching
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+### Database
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### Testing & Docs
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+
+---
+
+## 💼 Experience
+
+### 🏦 Mid-Level Backend Engineer — Banque Misr, Digital Factory
+**Feb 2023 – Present · New Cairo, Egypt**
+
+- Built scalable RESTful microservices with **Kotlin + Spring Boot** serving **4M+ users**
+- Integrated with core banking systems: **Finacle**, InfoSec, Middleware, and **Fawry**
+- Implemented distributed caching with **Redis**, DB migrations with **Flyway**, data access via **Oracle + JDBC**
+- Applied **TDD** with JUnit & Mockito; maintained CI/CD pipelines on **Azure DevOps**
+- Mentored backend trainees and led code refactoring initiatives
+
+### 🎓 Session Lead — Udacity (Part-time)
+**Mar 2026 – Present · Remote**
+
+- Conduct live technical sessions covering CS fundamentals and problem-solving
+- Design practical assignments to reinforce theoretical knowledge
+
+### 🏭 Intern Backend Engineer — Siemens EDA
+**Sep 2022 – Apr 2023 · New Cairo, Egypt**
+
+- Built RESTful APIs for a 3D education platform using **Spring Boot + Spring Security**
+- Integrated **Redis** caching; containerized with **Docker** and deployed to production
+- Led backend design and API documentation with **Swagger**
+
+---
+
+## 🚀 Projects
+
+### 🌱 Plant Guard — Smart Agriculture ML App
+> Early plant disease detection using machine learning, built with the Agriculture Research Center of Egypt.
+
+`Python` `Flask` `Spring Boot` `Flutter` `PostgreSQL` `TensorFlow`
+
+---
+
+### 🏠 Virtual Room Creator — 3D Education Platform
+> Interactive 3D virtual environments with real-time collaboration and secure authentication.
+
+`Java` `Spring Boot` `WebSocket` `JWT` `Redis` `Docker` `MySQL`
+
+---
+
+### ♟️ Chinese Checker — AI Gaming
+> Strategy board game with AI opponents powered by **minimax + alpha-beta pruning**, multiple difficulty levels.
+
+`Python` `AI` `Minimax` `Alpha-Beta Pruning`
+
+---
+
+### 🗜️ Compression Algorithms Suite
+> Implementations of classic data compression algorithms.
+
+| Repo | Algorithm | Language |
+|------|-----------|----------|
+| [VectorQuantization](https://github.com/MarwanaMostafa/VectorQuantization) | 2D Vector Quantization | Java |
+| [LZ77](https://github.com/MarwanaMostafa/LZ77) | LZ77 lossless compression | Java |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marwanamostafa&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwanamostafa&layout=compact&hide_border=true" height="165" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Followers" alt="marwanamostafa" />
-  </a>
-</p>
-<p align="left"> 
-</p>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-     <img src="https://github-profile-trophy.vercel.app/?username=marwanamostafa&title=Stars" alt="marwanamostafa" />
-  </a>
-</p>
-<p align="left"> 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marwanamostafa&hide_border=true" />
 </p>
 
+---
 
+<p align="center">
+  <i>Open to remote backend opportunities · Gulf & international markets welcome</i>
+</p>
